@@ -10,6 +10,7 @@ You will have to play with the height and width values to make it work for you.
 
 ## Sample config entry
 
+```
 {
 		module: 'MMM-BigTime',
 		position: 'top_right',	                   // fullscreen_below for live background
@@ -34,3 +35,4 @@ You will have to play with the height and width values to make it work for you.
 				 colorpc: "000",                       // color of the background 000 = black, t = transparent
 			}
 		},
+```
