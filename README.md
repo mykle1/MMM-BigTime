@@ -2,6 +2,10 @@
 
 A single module that occupies the entire display of your mirror.
 
+## Example
+
+![](images/BigTime.png)
+
 ## Uses
 
 Meant to be used with some form of pages or as a live background.
